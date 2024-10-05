@@ -57,7 +57,7 @@ El objetivo de este proyecto es entrenar, desplegar y validar un modelo de clasi
 
 5. Install dependencies:
    ```bash
-   pip install -r technical_analysis/requirements.txt
+   pip install -r requirements.txt
 
 6. Run the main script:
    ```bash
